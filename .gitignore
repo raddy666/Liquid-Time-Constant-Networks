@@ -2,3 +2,5 @@ data/
 *.pth
 results.json
 pycache/
+__pycache__/
+*.py[cod]
