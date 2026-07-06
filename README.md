@@ -159,7 +159,7 @@ If you only want to train from scratch, you can ignore this folder.
 
 ```bash
 git clone https://github.com/raddy666/Liquid-Time-Constant-Networks.git
-cd Liquid-Time-Constant-Networks-
+cd Liquid-Time-Constant-Networks
 pip install -r requirements.txt
 
 # Trains all 5 models sequentially, saves results.json + a .pth per model.
